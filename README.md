@@ -1,2 +1,2 @@
 # Steganography-coder-decoder-with-GUI-
-The aim of this project was to compare the performance of a program written in an assembly language and the one which utilizes high-level language.It enabled me to learn more about working with C# and .NET.
+The program encodes a text message into the bits of the uploaded image. It is possible because the change of the least significant bit cannot be seen by a human eye. The aim of this project was to compare the performance of a program written with a use of assembly language procedures and the one which utilizes high-level language. Additionaly one can decode previously encoded message.
