@@ -1,0 +1,5 @@
+LIBRARY SteganographyAsm
+EXPORTS
+EncryptAsm
+DecryptAsm
+checkMMXCapability

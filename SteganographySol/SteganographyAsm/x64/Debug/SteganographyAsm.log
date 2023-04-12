@@ -1,0 +1,4 @@
+﻿  Assembling SteganographyAsm.asm...
+SteganographyAsm.asm(133): warning A6004: procedure argument or local not referenced : C
+     Trwa tworzenie biblioteki ..\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyAsm.lib i obiektu ..\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyAsm.exp
+  SteganographyAsm.vcxproj -> C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyAsm.dll

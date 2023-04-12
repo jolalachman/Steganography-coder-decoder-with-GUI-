@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SteganographyProject": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyProject.exe
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyProject.deps.json
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyProject.runtimeconfig.json
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyProject.runtimeconfig.dev.json
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyProject.dll
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\bin\x64\Debug\netcoreapp3.1\SteganographyProject.pdb
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.Form1.resources
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.Properties.Resources.resources
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.csproj.GenerateResource.cache
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.AssemblyInfoInputs.cache
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.AssemblyInfo.cs
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.csproj.CoreCompileInputs.cache
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.dll
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.pdb
+C:\Users\Jola\source\repos\SteganographySol\SteganographyProject\obj\x64\Debug\netcoreapp3.1\SteganographyProject.genruntimeconfig.cache
